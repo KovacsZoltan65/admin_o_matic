@@ -1,3 +1,18 @@
 https://www.youtube.com/watch?v=vuq4U4U5kpw&list=PLW-lITXBwAP-vZl_f1_DbL06ITgCzmW9x&index=2&t=23s
 
 composer create-project laravel/laravel admin_o_matic
+
+composer require guzzlehttp/guzzle
+composer require inertiajs/inertia-laravel
+composer require laravel/jetstream
+composer require spatie/laravel-permission
+composer require tightenco/ziggy
+composer require fideloper/proxy
+composer require nascent-africa/jetstrap --with-all-dependencies
+
+npm install @inertiajs/inertia @inertiajs/inertia-vue3 @inertiajs/progress
+npm install @tailwindcss/forms @tailwindcss/typography
+npm install @vue/compiler-sfc
+npm install alpinejs axios bootstrap jquery laravel-mix lodash popper.js postcss postcss-import
+npm install resolve-url-loader sass sass-loader tailwindcss vue vue-loader
+npm install @suadelabs/vue3-multiselect
