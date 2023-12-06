@@ -1,0 +1,3 @@
+https://www.youtube.com/watch?v=vuq4U4U5kpw&list=PLW-lITXBwAP-vZl_f1_DbL06ITgCzmW9x&index=2&t=23s
+
+composer create-project laravel/laravel admin_o_matic
